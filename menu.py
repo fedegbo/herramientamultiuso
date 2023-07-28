@@ -16,6 +16,7 @@ while True:
     elif menu == "2":
         print(contmone.monedas("Chile",200))
 print("¡Hasta luego!")
+print("se arego a git correctamente") # prueba de git
 
 
 
