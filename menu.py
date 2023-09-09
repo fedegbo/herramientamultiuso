@@ -1,4 +1,4 @@
-import calculadora as calc
+import operaciones as calc
 import conversordemonedas as contmone
 while True:
     menu = input('''Bienvenido a la herramienta multiuso para todas las necesidades que necesites satisfacer.
@@ -16,7 +16,6 @@ while True:
     elif menu == "2":
         print(contmone.monedas("Chile",200))
 print("¡Hasta luego!")
-print("se arego a git correctamente") # prueba de git
 
 
 
